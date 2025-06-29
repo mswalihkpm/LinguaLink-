@@ -15,7 +15,7 @@ const Header = () => (
         transition={{ type: "spring", stiffness: 300 }}
       >
         <img 
-          src="https://storage.googleapis.com/hostinger-horizons-assts-prod/aba42882-e11d-47bc-a4fa-a70d7c3a7194/ff8a9e1600647bf00f4f4a1bb4fa1694.png" 
+          src="https://storage.googleapis.com/hostinger-horizons-assets-prod/aba42882-e11d-47bc-a4fa-a70d7c3a7194/ff8a9e1600647bf00f4f4a1bb4fa1694.png" 
           alt="LinguaLink Logo" 
           className="w-16 h-16 rounded-2xl shadow-lg mx-auto"
         />
