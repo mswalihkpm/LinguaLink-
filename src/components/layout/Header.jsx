@@ -15,9 +15,9 @@ const Header = () => (
         transition={{ type: "spring", stiffness: 300 }}
       >
         <img 
-          src="https://i.postimg.cc/855VqQKR/M.png" 
+          src="https://i.postimg.cc/2jbmzYGy/Chat-GPT-Image-Jun-30-2025-01-25-55-PM-removebg-preview.png" 
           alt="LinguaLink Logo" 
-          className="w-25 h-25 rounded-2xl shadow-lg mx-auto"
+          className="w-21 h-21 rounded-2xl shadow-lg mx-auto"
         />
       </motion.div>
       
@@ -25,7 +25,7 @@ const Header = () => (
         LinguaLink
       </h1>
       <p className="text-violet-200 text-sm">
-        Your Link to Languages
+        Your Deutschmate
       </p>
     </div>
   </motion.header>
