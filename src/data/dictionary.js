@@ -1,6 +1,6 @@
 export const mockDictionary = {
   de: {
-    'hallo': { translation: 'Hello', type: 'Interjection', features: ['Common greeting', 'Example: Hallo, wie geht’s dir? (Hello, how are you?)'] },
+    'hallo': { translation: 'Hello', type: 'Interjection', features: ['Common greeting', 'Example: Hallo, wie geht’s dir?'] },
     'welt': { translation: 'World', type: 'Noun', features: ['Gender: die', 'Plural: Welten'] },
     'guten': { translation: 'Good', type: 'Adjective', features: ['Part of "Guten Tag" (Good Day)'] },
     'morgen': { translation: 'Morning', type: 'Noun', features: ['Gender: der', 'Plural: die Morgen'] },
