@@ -289,7 +289,7 @@ export const mockDictionary = {
     arbeiten: { translation: 'To work', type: 'Verb', features: ['Example: Ich arbeite im Büro. (I work in the office.)'] },
     essen_verb: { translation: 'To eat', type: 'Verb', features: ['Example: Ich esse einen Apfel. (I eat an apple.)'] },
     trinken: { translation: 'To drink', type: 'Verb', features: ['Example: Ich trinke Wasser. (I drink water.)'] },
-    schlafen: { translation: 'To sleep', type: 'Verb', features: ['Example: Ich schlafe gut. (I sleep well.)'] },
+    schlafen: { translation: 'sleep', type: 'Verb', features: ['Example: Ich schlafe gut. (I sleep well.)'] },
     kaufen: { translation: 'To buy', type: 'Verb', features: ['Example: Ich kaufe ein Buch. (I buy a book.)'] },
     fragen: { translation: 'To ask', type: 'Verb', features: ['Example: Ich frage den Lehrer. (I ask the teacher.)'] },
     antworten: { translation: 'To answer', type: 'Verb', features: ['Example: Er antwortet schnell. (He answers quickly.)'] },
