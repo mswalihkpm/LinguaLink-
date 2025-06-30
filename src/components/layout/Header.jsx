@@ -17,7 +17,7 @@ const Header = () => (
         <img 
           src="https://i.postimg.cc/2jbmzYGy/Chat-GPT-Image-Jun-30-2025-01-25-55-PM-removebg-preview.png" 
           alt="LinguaLink Logo" 
-          className="w-21 h-21 rounded-2xl mx-auto"
+          className="w-19 h-19 rounded-2xl mx-auto"
         />
       </motion.div>
       
