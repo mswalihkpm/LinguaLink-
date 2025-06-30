@@ -17,7 +17,7 @@ const Header = () => (
         <img 
           src="https://i.postimg.cc/855VqQKR/M.png" 
           alt="LinguaLink Logo" 
-          className="w-16 h-16 rounded-2xl shadow-lg mx-auto"
+          className="w-25 h-25 rounded-2xl shadow-lg mx-auto"
         />
       </motion.div>
       
